@@ -1,5 +1,6 @@
+// @import url(http://nicholastodor.com/sf/usesf.css);
 $tint: #EF431D;
-$font: sans-serif;
+$font: 'San Francisco Text', sans-serif;
 
 .logo {
 	span {
@@ -12,9 +13,6 @@ $font: sans-serif;
 			color: $tint;
 		}
 	}	
-	.vote i::after {
-		color: $tint;
-	}
 }
 .name {
 	.links {
