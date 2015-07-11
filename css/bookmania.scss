@@ -1,6 +1,13 @@
-$tint: #EF431D;
-$font: "minion-pro", serif;
+$tint: #F1B908;
+$font: "bookmania", sans-serif;
 
+body.bookmania {
+    -moz-font-feature-settings: "kern=1", "liga=1", "clig=1", "hlig=1";
+    -moz-font-feature-settings: "kern" on, "liga" on, "clig" on, "hlig" on;
+    -webkit-font-feature-settings: "kern","liga","clig","hlig";
+    -ms-font-feature-settings: "kern","liga","clig","hlig";
+    font-feature-settings: "kern","liga","clig","hlig";
+}
 .logo {
 	span {
 		color: $tint;
