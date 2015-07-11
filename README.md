@@ -1,7 +1,7 @@
 Type Detail
 ----------
 
-My project [Type Detail Info](http://typedetail.info/) is based on a fork from Wenting Zhang's [Type Detail](http://typedetail.com/) project. It is not a separate entry in the 100 day project; but rather, simply helping me practice my new skills at using Github and SASS. Fact is, I've long been fascinated by typography's rich history, and I'm thankful for the opportunity to participate. 
+My project, [Type Detail Info](http://typedetail.info/), is forked from Wenting Zhang's [Type Detail](http://typedetail.com/) project. It is not a separate entry in the 100 day project; but rather, simply letting me practice my new skills at using Github and SASS. Fact is, I've long been fascinated by typography's rich history, and I'm thankful for the opportunity to participate here. 
 
 Type detail is an ongoing project by [Wenting Zhang](https://thenetawards.com/vote/talent/wenting-zhang/), inspired by the great discontent's [100 day project](https://thegreatdiscontent.com/100days) and Stephen Coles's great book [The Anatomy of Type](http://typeanatomy.com/). The rule and goal are to annotate a web typeface each day, pointing out the beautiful details of the typefaces that one often takes for granted.
 
