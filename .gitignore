@@ -1,4 +1,33 @@
-.DS_Store
-_notes
+# Exclude the SASS cache
 **/.sass-cache
 **/.sass-cache/*
+
+# Exclude the .htaccess file
+.htaccess
+
+# Exclude any PSD/AI source
+*.psd
+*.ai
+ 
+# Exclude the build products
+build/*
+*.[oa]
+
+# Exclude OS X folder attributes
+.DS_Store
+ 
+# Exclude Text Files
+*.txt
+# Except read me
+!README.txt
+!snippets.txt
+
+# Exclude log files
+*.log
+
+# Exclude Fonts
+_fonts/
+
+# Exclude Source
+_source
+_notes
