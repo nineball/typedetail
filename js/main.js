@@ -14,9 +14,7 @@ $(function(){
 	$('.vote').click(function(e) {
 	    e.preventDefault();
 	    window.open('index.html');		
-
-//	    window.open('http://typedetail.info/');
-//	    window.open('http://donirby.net/type/font_detail/');
+	    window.open('http://donirby.net/typography/');
 		
 //	    window.open('../index.htm/');
 //	    window.open('http://donirby.net/type');
