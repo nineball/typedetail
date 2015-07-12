@@ -13,7 +13,15 @@ $(function(){
 	});
 	$('.vote').click(function(e) {
 	    e.preventDefault();
-	    window.open('https://thenetawards.com/vote/side-project/underline-js/');
-	    window.open('https://thenetawards.com/vote/talent/wenting-zhang/');
+	    window.open('index.html');		
+
+//	    window.open('http://typedetail.info/');
+//	    window.open('http://donirby.net/type/font_detail/');
+		
+//	    window.open('../index.htm/');
+//	    window.open('http://donirby.net/type');
+
+//	    window.open('https://thenetawards.com/vote/side-project/underline-js/');
+//	    window.open('https://thenetawards.com/vote/talent/wenting-zhang/');
 	});
 })
