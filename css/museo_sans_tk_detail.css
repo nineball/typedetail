@@ -1,0 +1,76 @@
+/* NOTE: THE MUSEO SANS AND MUSEO FONTS ARE NOT PROVIDED WITH THIS PAGE. PLEASE GO TO FONTSQUIRREL.COM
+OR FONTSPRING.COM AND DOWNLOAD THE @FONT-FACE FILES FOR MUSEO SANS AND MUSEO */
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2011 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      exljbris
+ * License URL: http://www.fontspring.com/fflicense/exljbris
+ *
+ *
+ */
+@font-face {
+  font-family: 'MuseoSans500';
+  src: url("../fonts/MuseoSans_500-webfont.eot");
+  src: url("../fonts/MuseoSans_500-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/MuseoSans_500-webfont.woff") format("woff"), url("../fonts/MuseoSans_500-webfont.ttf") format("truetype"), url("../fonts/MuseoSans_500-webfont.svg#MuseoSans500") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'MuseoSans500Italic';
+  src: url("../fonts/MuseoSans_500_Italic-webfont.eot");
+  src: url("../fonts/MuseoSans_500_Italic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/MuseoSans_500_Italic-webfont.woff") format("woff"), url("../fonts/MuseoSans_500_Italic-webfont.ttf") format("truetype"), url("../fonts/MuseoSans_500_Italic-webfont.svg#MuseoSans500Italic") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Museo700';
+  src: url("../fonts/Museo700-Regular-webfont.eot");
+  src: url("../fonts/Museo700-Regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Museo700-Regular-webfont.woff") format("woff"), url("../fonts/Museo700-Regular-webfont.ttf") format("truetype"), url("../fonts/Museo700-Regular-webfont.svg#Museo700") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+.logo span {
+  color: #F1B908; }
+
+.share a:hover::before {
+  color: #F1B908; }
+.share .vote i::after {
+  color: #F1B908; }
+
+.name .links a:hover {
+  background: #F1B908; }
+
+.specimen p em {
+  color: #F1B908; }
+
+.annotation .type {
+  color: #F1B908; }
+
+.similar h1, .similar h2 {
+  color: #F1B908; }
+
+.specimen p {
+  font-family: Georgia, Times, "Times New Roman", serif; }
+
+.annotation {
+  font-family: Georgia, Times, "Times New Roman", serif; }
+
+.styles h1, .styles h2, .styles h3, .styles h4, .styles h5, .styles h6, .styles p, .styles div {
+  font-family: Georgia, Times, "Times New Roman", serif; }
+
+.legibility h1, .legibility h2, .legibility h3, .legibility h4, .legibility h5, .legibility h6 {
+  font-family: Georgia, Times, "Times New Roman", serif; }
+
+/*# sourceMappingURL=museo_sans_tk_detail.css.map */
