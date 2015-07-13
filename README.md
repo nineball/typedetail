@@ -1,7 +1,7 @@
 Type Info Pages
 ----------------
 
-This project, [Type Detail Info](http://typedetail.info/), was inspired by Wenting Zhang's [Type Detail](http://typedetail.com/) project. It is not an entry in the 100 day project; but rather, I'm using this forum to learn and practice Github and SASS. Fact is, I've long been fascinated by typography's rich history, and I'm thankful for the opportunity to participate here. 
+This project, [Type Detail Info](http://typedetail.info/), was inspired by Wenting Zhang's [Type Detail](http://typedetail.com/) project. It is not an entry in the 100 day project. Fact is, I've long been fascinated by typography's rich history, and I'm thankful for the opportunity to participate here. 
 
 #### Serif Pages in Progress
 - [Adelle](http://typedetail.info/adelle_tk_detail.html)
