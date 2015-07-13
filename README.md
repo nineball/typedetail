@@ -4,10 +4,10 @@ Type Detail Info
 This project, [Type Detail Info](http://typedetail.info/), was forked from Wenting Zhang's [Type Detail](http://typedetail.com/) project. It is not a separate entry in the 100 day project; but rather, I'm using this forum to learn and practice Github and SASS. Fact is, I've long been fascinated by typography's rich history, and I'm thankful for the opportunity to participate here. 
 
 #### Serif Type Pages Work in Progress
-[Adelle](http://typedetail.info/adelle_tk_detail.html)
-[Baskerville](http://typedetail.info/baskerville_detail.html)
-[Bodoni](http://typedetail.info/bodoni_tk_detail.html)
-[Calluna](http://typedetail.info/calluna_tk_detail.html)
+- [Adelle](http://typedetail.info/adelle_tk_detail.html)
+- [Baskerville](http://typedetail.info/baskerville_detail.html)
+- [Bodoni](http://typedetail.info/bodoni_tk_detail.html)
+- [Calluna](http://typedetail.info/calluna_tk_detail.html)
 [Caslon Pro](http://typedetail.info/caslon_tk_detail.html)
 [Crimson Text](http://typedetail.info/crimson_detail.html)
 [Georgia](http://typedetail.info/georgia_detail.html)
