@@ -1,4 +1,4 @@
-Typography Pages
+Type Info Pages
 ----------------
 
 This project, [Type Detail Info](http://typedetail.info/), was forked from Wenting Zhang's [Type Detail](http://typedetail.com/) project. It is not a separate entry in the 100 day project; but rather, I'm using this forum to learn and practice Github and SASS. Fact is, I've long been fascinated by typography's rich history, and I'm thankful for the opportunity to participate here. 
