@@ -27,15 +27,15 @@ AND DOWNLOAD THE @FONT-FACE KIT FOR MYNDRAINE */
   color: #EF431D; }
 
 .specimen p {
-  font-family: "MyndraineRegular", verdana, sans-serif; }
+  font-family: "MyndraineRegular", sans-serif; }
 
 .annotation {
-  font-family: "MyndraineRegular", verdana, sans-serif; }
+  font-family: "MyndraineRegular", sans-serif; }
 
 .styles h1, .styles h2, .styles h3, .styles h4, .styles h5, .styles h6, .styles p, .styles div {
-  font-family: "MyndraineRegular", verdana, sans-serif; }
+  font-family: "MyndraineRegular", sans-serif; }
 
 .legibility h1, .legibility h2, .legibility h3, .legibility h4, .legibility h5, .legibility h6 {
-  font-family: "MyndraineRegular", verdana, sans-serif; }
+  font-family: "MyndraineRegular", sans-serif; }
 
 /*# sourceMappingURL=myndraine_detail.css.map */
