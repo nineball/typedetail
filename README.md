@@ -1,9 +1,9 @@
-Type Detail Info
+Typography Pages
 ----------------
 
 This project, [Type Detail Info](http://typedetail.info/), was forked from Wenting Zhang's [Type Detail](http://typedetail.com/) project. It is not a separate entry in the 100 day project; but rather, I'm using this forum to learn and practice Github and SASS. Fact is, I've long been fascinated by typography's rich history, and I'm thankful for the opportunity to participate here. 
 
-#### Serif Type in Progress
+#### Serif Pages in Progress
 - [Adelle](http://typedetail.info/adelle_tk_detail.html)
 - [Baskerville](http://typedetail.info/baskerville_detail.html)
 - [Bodoni](http://typedetail.info/bodoni_tk_detail.html)
@@ -20,7 +20,7 @@ This project, [Type Detail Info](http://typedetail.info/), was forked from Wenti
 - [Unna](http://typedetail.info/unna_detail.html) 
 - [Utopia](http://typedetail.info/utopia_tk_detail.html)
 
-#### Sans Serif Type in Progress
+#### Sans Serif Pages in Progress
 - [Arial](http://typedetail.info/arial_detail.html)
 - [Museo Sans](http://typedetail.info/museo_sans_tk_detail.html)
 - [Myriad Pro](http://typedetail.info/myriad_sans_tk_detail.html)
@@ -30,7 +30,7 @@ This project, [Type Detail Info](http://typedetail.info/), was forked from Wenti
 - [Ubuntu](http://typedetail.info/ubuntu_detail.html)
 - [Verdana](http://typedetail.info/verdana_detail.html)
 
-#### Modern Type in Progress</h3>
+#### Modern Pages in Progress</h3>
 - [Myndraine](http://typedetail.info/myndraine_detail.html)
 - [Ruluko](http://typedetail.info/ruluko_detail.html)
 - [Sanvito](http://typedetail.info/sanvito_tk_detail.html)
