@@ -1,7 +1,7 @@
 Type Info Pages
 ----------------
 
-This project, [Type Detail Info](http://typedetail.info/), was inspired by Wenting Zhang's [Type Detail](http://typedetail.com/) project, although it is not an entry in the 100 day project or the Net Awards 2015 competition. Fact is, I've long been fascinated by typography's rich and colorful history, and I'm thankful for the opportunity to participate here. 
+This project, [Type Detail Info](http://typedetail.info/), was inspired by Wenting Zhang's [Type Detail](https://thenetawards.com/vote/talent/wenting-zhang/) project, although it is not an entry in the 100 day project or the Net Awards competition. Fact is, I've long been fascinated by typography's rich and colorful history, and I'm thankful for the opportunity to participate here. 
 
 #### Serif Pages in Progress
 - [Adelle](http://typedetail.info/adelle_tk_detail.html)
