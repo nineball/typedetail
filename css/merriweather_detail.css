@@ -1,22 +1,22 @@
 .logo span {
-  color: #F1B908; }
+  color: #50C9CE; }
 
 .share a:hover::before {
-  color: #F1B908; }
+  color: #50C9CE; }
 .share .vote i::after {
-  color: #F1B908; }
+  color: #50C9CE; }
 
 .name .links a:hover {
-  background: #F1B908; }
+  background: #50C9CE; }
 
 .specimen p em {
-  color: #F1B908; }
+  color: #50C9CE; }
 
 .annotation .type {
-  color: #F1B908; }
+  color: #50C9CE; }
 
 .similar h1, .similar h2 {
-  color: #F1B908; }
+  color: #50C9CE; }
 
 .specimen p {
   font-family: "Merriweather", georgia, serif; }
