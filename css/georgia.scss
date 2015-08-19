@@ -1,6 +1,10 @@
 $tint: #F1B908;
-$font:  Georgia, serif;
-
+$font:  Georgia, Times, 'Times New Roman', serif;
+nav {
+	a:hover {
+		color: $tint;
+	}
+}
 .logo {
 	span {
 		color: $tint;
@@ -41,13 +45,11 @@ $font:  Georgia, serif;
 		color: $tint;
 	}
 }
-
 .specimen {
 	p {
 		font-family: $font;
 	}
 }
-
 .annotation {
 	font-family: $font;
 }

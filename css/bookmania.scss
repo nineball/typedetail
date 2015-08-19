@@ -8,6 +8,11 @@ body.bookmania {
     -ms-font-feature-settings: "kern","liga","clig","hlig";
     font-feature-settings: "kern","liga","clig","hlig";
 }
+nav {
+	a:hover {
+		color: $tint;
+	}
+}
 .logo {
 	span {
 		color: $tint;
@@ -42,19 +47,16 @@ body.bookmania {
 		color: $tint;
 	}
 }
-
 .similar {
 	h1, h2 {
 		color: $tint;
 	}
 }
-
 .specimen {
 	p {
 		font-family: $font;
 	}
 }
-
 .annotation {
 	font-family: $font;
 }

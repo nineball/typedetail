@@ -5,6 +5,9 @@ body.bookmania {
   -ms-font-feature-settings: "kern","liga","clig","hlig";
   font-feature-settings: "kern","liga","clig","hlig"; }
 
+nav a:hover {
+  color: #F1B908; }
+
 .logo span {
   color: #F1B908; }
 

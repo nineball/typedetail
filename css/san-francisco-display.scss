@@ -1,7 +1,10 @@
-@import url(http://nicholastodor.com/sf/usesf.css);
 $tint: #EF431D;
-$font: 'San Francisco Display', sans-serif;
-
+$font: sans-serif;
+nav {
+	a:hover {
+		color: $tint;
+	}
+}
 .logo {
 	span {
 		color: $tint;
@@ -13,6 +16,9 @@ $font: 'San Francisco Display', sans-serif;
 			color: $tint;
 		}
 	}	
+	.vote i::after {
+		color: $tint;
+	}
 }
 .name {
 	.links {
@@ -32,20 +38,22 @@ $font: 'San Francisco Display', sans-serif;
 	.type {
 		color: $tint;
 	}
+	span {
+		em {
+			color: $tint;
+		}
+	}
 }
-
 .similar {
 	h1, h2 {
 		color: $tint;
 	}
 }
-
 .specimen {
 	p {
 		font-family: $font;
 	}
 }
-
 .annotation {
 	font-family: $font;
 }

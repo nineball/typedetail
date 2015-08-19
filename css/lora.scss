@@ -1,6 +1,10 @@
 $tint: #50C9CE;
 $font: 'Lora', serif;
-
+nav {
+	a:hover {
+		color: $tint;
+	}
+}
 .logo {
 	span {
 		color: $tint;
@@ -35,19 +39,16 @@ $font: 'Lora', serif;
 		color: $tint;
 	}
 }
-
 .similar {
 	h1, h2 {
 		color: $tint;
 	}
 }
-
 .specimen {
 	p {
 		font-family: $font;
 	}
 }
-
 .annotation {
 	font-family: $font;
 }

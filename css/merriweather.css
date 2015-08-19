@@ -1,3 +1,6 @@
+nav a:hover {
+  color: #50C9CE; }
+
 .logo span {
   color: #50C9CE; }
 
@@ -19,15 +22,15 @@
   color: #50C9CE; }
 
 .specimen p {
-  font-family: merriweather, serif; }
+  font-family: Merriweather, sans-serif; }
 
 .annotation {
-  font-family: merriweather, serif; }
+  font-family: Merriweather, sans-serif; }
 
 .styles h1, .styles h2, .styles h3, .styles h4, .styles h5, .styles h6, .styles p, .styles div {
-  font-family: merriweather, serif; }
+  font-family: Merriweather, sans-serif; }
 
 .legibility h1, .legibility h2, .legibility h3, .legibility h4, .legibility h5, .legibility h6 {
-  font-family: merriweather, serif; }
+  font-family: Merriweather, sans-serif; }
 
 /*# sourceMappingURL=merriweather.css.map */

@@ -1,7 +1,11 @@
 $tint: #F1B908;
 $font: 'Sentinel A', 'Sentinel B', serif;
 // $font: sans-serif;
-
+nav {
+	a:hover {
+		color: $tint;
+	}
+}
 .logo {
 	span {
 		color: $tint;
@@ -36,19 +40,16 @@ $font: 'Sentinel A', 'Sentinel B', serif;
 		color: $tint;
 	}
 }
-
 .similar {
 	h1, h2 {
 		color: $tint;
 	}
 }
-
 .specimen {
 	p {
 		font-family: $font;
 	}
 }
-
 .annotation {
 	font-family: $font;
 }

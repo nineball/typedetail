@@ -7,7 +7,11 @@ $opensans: 'Open Sans', sans-serif;
 $playfair: 'Playfair Display', serif;
 $playfairsc: 'Playfair Display SC', serif;
 $easing: cubic-bezier(0.18, 0.57, 0.51, 1);
-
+nav {
+	a:hover {
+		color: $tint;
+	}
+}
 .logo {
 	span {
 		color: $tint;

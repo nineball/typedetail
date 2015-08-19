@@ -1,6 +1,10 @@
 $tint: #EF431D;
 $font: 'Obsidian A', 'Obsidian B', serif;
-
+nav {
+	a:hover {
+		color: $tint;
+	}
+}
 .logo {
 	span {
 		color: $tint;
@@ -40,19 +44,16 @@ $font: 'Obsidian A', 'Obsidian B', serif;
 		}
 	}
 }
-
 .similar {
 	h1, h2 {
 		color: $tint;
 	}
 }
-
 .specimen {
 	p {
 		font-family: $font;
 	}
 }
-
 .annotation {
 	font-family: $font;
 }

@@ -279,6 +279,13 @@ main {
   margin: 0 auto;
   padding-bottom: 60px; }
 
+nav a {
+  color: #D0CAC2;
+  text-decoration: none; }
+
+nav a:hover, .current {
+  color: #786137; }
+
 .name {
   width: 570px;
   border-top: dashed 1px #D0CAC2;
