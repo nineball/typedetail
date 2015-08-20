@@ -13,8 +13,8 @@ $(function(){
 	});
 	$('.vote').click(function(e) {
 	    e.preventDefault();
-	    window.open('index.html');		
-	    window.open('http://donirby.net/typography/');
+	    window.open('http://donirby.com/');		
+//	    window.open('http://donirby.net/typography/');
 		
 //	    window.open('../index.htm/');
 //	    window.open('http://donirby.net/type');
